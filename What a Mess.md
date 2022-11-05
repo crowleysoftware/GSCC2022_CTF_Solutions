@@ -12,3 +12,4 @@ It is not much of a cipher really, with very little effort you can decode this o
 [Wikipedia](https://en.wikipedia.org/wiki/Pigpen_cipher)
 
 The symbols represent the section of a grid and they correspond to a letter. For example, &#8896; is the letter V and &sdotb; is the letter N.
+
