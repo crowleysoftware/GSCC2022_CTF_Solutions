@@ -14,6 +14,7 @@ Please contribute your own solutions. There's always more than one way to arrive
 1. [Security through Obscurity](SecuritythroughObscurity.md)
 1. [Take your time](Takeyourtime.md)
 1. [BRING SJRNR OUT](BRINGSJRNROUT.md)
+1. [I'll Take That as a Complement](complement.md)
 1. [Needle in an HTML Stack](NeedleinanHTMLStack.md)
 1. [Cheat To Win](CheatToWin.md)
 1. [Physical Challenge](PhysicalChallenge.md)
