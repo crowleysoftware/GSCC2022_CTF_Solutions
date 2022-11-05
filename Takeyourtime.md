@@ -21,7 +21,7 @@ If you convert these examples from a unix timestamp to a human-readable date/tim
 
 1668214800 = Saturday, November 12, 2022 1:00:00 AM
 
-There is a pattern here. If 12:00 thru 12:30 represents "a", and 12:30:01 thru 1:00 represents "b" then we can infer that each half our block represents a letter of the alphabet, sequentially.
+There is a pattern here. If 12:00 thru 12:30 represents "a", and 12:30:01 thru 1:00 represents "b" then we can infer that each half hour block represents a letter of the alphabet, sequentially.
 
 Now your job is to convert the clock representations to unix timestamps as of the date of Code Camp (11/12/2022) and then line up the letter of the alphabet with the time.
 
