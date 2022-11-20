@@ -13,7 +13,7 @@ indicating an account that was in the breach.
 
 ![](repeat2.png)
 
-Found an account that was in the breach data and also had an account.  The breach appeared to be MD5 hashed password, quick search online to see if there
+Found a name that was in the breach data and also had an account.  The breach appeared to be MD5 hashed password, quick search online to see if there
 were any cracks of the password and it implied that it could be "alligator".    
 
 ![](repeat3.png)
