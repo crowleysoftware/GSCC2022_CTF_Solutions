@@ -9,8 +9,8 @@ and I was not going to be physically at the conference.  Had to try to guess wha
 listed in Wikipedia article about the Arnold cipher.  No luck so I looked at what all of the other challenges were about and the one from the movie
 "The Martian" looked possible.  Got an ebook version of it but the pages didn't apparently line up.  
 
-My local library did not have the book, but my
-daughter drove 20 miles to a library near her and found the book which led to the flag.
+My local library did not have the book, so my
+daughter drove 20 miles to a library near her and found the book which led to the flag (page 53, line 20, word 3 showed that "where" was first word in flag).  Continued with others to complete entire flag.
 
 ![](physical.png)
 
